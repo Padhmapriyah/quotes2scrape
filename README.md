@@ -51,5 +51,17 @@ Once the spider is created or cloned the project, you can run the spider using t
 ```
 scrapy crawl quotes2scrape -o quotes100.csv
 ```
+Reference Documents:
+
+https://splash.readthedocs.io/en/stable/
+https://github.com/scrapy-plugins/scrapy-splash
+https://docs.scrapy.org/en/latest/intro/tutorial.html
+
 Screenshot for reference:
 
+Starting.
+
+![start_quotes](https://user-images.githubusercontent.com/132034355/235143824-6d043ac8-0cc0-479b-9261-9f334a0a5cbc.png)
+
+Ending.
+![end_quotes](https://user-images.githubusercontent.com/132034355/235143830-fedc7182-85ef-4b06-9285-3c0a1c83a066.png)
